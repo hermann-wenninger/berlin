@@ -1,0 +1,8 @@
+{
+  "name": "berlin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "e2ae364c"
+}
